@@ -13,7 +13,8 @@
   </head>
   <body>
 
-  <body background="pasta.png"> </body>
+  <body background="img/found.png" > </body>
+  
   
 
   <nav class="navbar navbar-expand-lg navbar-light bg-danger">
@@ -21,7 +22,6 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  
  
 
   
@@ -55,18 +55,21 @@
     </form>
   </div>
 </nav>
- 
 
 
 
 
     
     <div class="row">
-    <div class="col-12 col-md-4 col-lg-6"></div>
-    <div class="col-12 col-md-4 col-lg-6"><br>
-    <h1></h1>
-     <div class="col-12 col-md-4 col-lg-6"></div>
+    <div class="col-10 col-md-5 col-lg-12"></div>
+    <div class="col-10 col-md-5 col-lg-12"><br><br>
+    <br><p>Los medicamentos de origen natural son aquellos que se elaboran de plantas medicinales que se logran encontrar en nuestro entorno como la famosa menta, la adormidera, menta, sauce entre otros. <br></p>
+      <p> Las especies medicinales expresan diferentes metabolitos, dependiendo del ambiente en el cual ellas se encuentran declarò Giovanny Garavito.Por eso, un lote recolectado en època de lluvia o seca, puede ser diferente en cuanto a su actividad.Para solucionar esta situaciòn, se trabaja con extractos caracterizados o estandarizados.Ahora una especie vegetal puede tener mùltiples registros sanitarios.   Aunque tenemos  la segunda diversidad biològica del mundo no la hemos aprovechado e importamos extractos estandarizados y el temor, desde la Academia, es que suceda lo mismo del cafè o petròleo,donde exportamos a bajo costo y reimportamos lo procesado.  Lo que tenemos es adelantar estudios de bioprospecciòn, para destinar nuestros recursos a una utilizaciòn màs racional con finalidad econòmica. </p>
+      <img src="img/ore.png" alt="" class="img-ts rounded float-xs-right">
+
+     <div class="col-10 col-md-5 col-lg-12"></div>
      <body>
+
 <style>
   .contenedor{
       width: 500px;
