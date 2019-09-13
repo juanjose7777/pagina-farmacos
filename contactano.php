@@ -8,11 +8,11 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-    <title> fármacos.info!</title>
+    <title> </title>
   </head>
   <body>
 
-  <body background="pasta.png"> </body>
+  <body background=""> </body>
   
 
   <nav class="navbar navbar-expand-lg navbar-light bg-danger">
@@ -61,10 +61,9 @@
 
     
     <div class="row">
-    <div class="col-12 col-md-4 col-lg-6"></div>
-    <div class="col-12 col-md-4 col-lg-6"><br>
-    <h1>...bienvenido a farmacos.info!</h1>
-     <div class="col-12 col-md-4 col-lg-6"></div>
+    <div class="col-12 col-md-4 col-lg-3"></div>
+    <div class="col-12 col-md-4 col-lg-3"><br><br>
+     <div class="col-12 col-md-4 col-lg-3"></div>
      <body>
 <style>
   .contenedor{
@@ -79,46 +78,25 @@
   <body>
       <div class="container">
       <div class="container">
-      <img src="img/medic.png" alt="" class="img-ts rounded float-xs-right">
+      <img src="img/captura.png" alt="" class="img-ts rounded float-xs-right"><br>
+      <h1>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​Carrera 13 N.° 28 - 0​8 . m. a 4:00 p. m</h1>
+
+
+
+
+
+
+
+
 </div>
 </body>
     
-     <form action="continuar.php"method="post">
-  <div class="form-group">
-    <label for="exampleInputEmail1">ingresa los respectivos campos Y GANA UN PREMIO</label>
-    <input type="email" class="form-control" 
-    name="email"
-    id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="correo electronico">
-    <small id="emailHelp" class="form-text text-muted">recuerda llenar los campos.</small>
-  </div>
-  <div class="form-group">
-    <input type="password" class="form-control" 
-          name="pass"
-    id="exampleInputPassword1" placeholder="contraseña">
-  </div>
-  <div class="form-group form-check">
-    
-  </div>
-  <button type="submit" class="btn btn-outline-danger  btn-lg btn-block">continuar</button>
-
-</form>
+     
 
 
 
 
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-    <img class="d-block w-100" src=".../1040x720?auto=yes&bg=777&fg=555&text=First slide" alt="prueba">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src=".../800x400?auto=yes&bg=666&fg=444&text=Second slide" alt="ya amanos">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src=".../800x400?auto=yes&bg=555&fg=333&text=Third slide" alt="contactanos">
-    </div>
-  </div>
-</div>
+
      
 
    

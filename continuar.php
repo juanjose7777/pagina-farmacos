@@ -11,7 +11,8 @@
 
     <title> fármacos.info!</title>
   </head>
-  
+  <body background="pasta.png"> </body>
+
 
 
 
@@ -41,6 +42,7 @@ echo "Su usuario es : $usuario <br> Su clave es : $clave";
 </head>
  
  <body>
+ 
 <style>
   .contenedor{
       width: 500px;

@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -60,11 +61,11 @@
 
 
     
-    <div class="row">
-    <div class="col-12 col-md-4 col-lg-6"></div>
-    <div class="col-12 col-md-4 col-lg-6"><br>
+<div class="row">
+    <div class="col-12 col-md-4 col-lg-3"></div>
+    <div class="col-12 col-md-4 col-lg-3"><br>
     <h1>...bienvenido a farmacos.info!</h1>
-     <div class="col-12 col-md-4 col-lg-6"></div>
+     <div class="col-12 col-md-4 col-lg-3"></div>
      <body>
 <style>
   .contenedor{
@@ -79,29 +80,15 @@
   <body>
       <div class="container">
       <div class="container">
-      <img src="img/medic.png" alt="" class="img-ts rounded float-xs-right">
+      <img src="" alt="" class="img-ts rounded float-xs-right">
 </div>
 </body>
+<div class="container">
+      <div class="container">
+      <img src="img/medic.png" alt="" class="img-ts rounded float-xs-right">
+</div>
     
-     <form action="continuar.php"method="post">
-  <div class="form-group">
-    <label for="exampleInputEmail1">ingresa los respectivos campos Y GANA UN PREMIO</label>
-    <input type="email" class="form-control" 
-    name="email"
-    id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="correo electronico">
-    <small id="emailHelp" class="form-text text-muted">recuerda llenar los campos.</small>
-  </div>
-  <div class="form-group">
-    <input type="password" class="form-control" 
-          name="pass"
-    id="exampleInputPassword1" placeholder="contraseña">
-  </div>
-  <div class="form-group form-check">
-    
-  </div>
-  <button type="submit" class="btn btn-outline-danger  btn-lg btn-block">continuar</button>
-
-</form>
+     
 
 
 
